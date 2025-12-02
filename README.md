@@ -23,11 +23,11 @@ Desarrollo colaborativo de una aplicación web combinando React en el frontend y
 
 ---
 ## 🌟 Lo que me define
-Comunicación clara y efectiva
-Pensamiento analítico y orientado a soluciones
-Curiosidad, aprendizaje rápido y adaptabilidad
-Responsabilidad, compromiso y actitud siempre positiva
-Motivación por mejorar continuamente como desarrolladora
+Comunicación clara y efectiva.
+Pensamiento analítico y orientado a soluciones.
+Curiosidad, aprendizaje rápido y adaptabilidad.
+Responsabilidad, compromiso y actitud siempre positiva.
+Motivación por mejorar continuamente como desarrolladora.
 
 ---
 ## Desarrolladora 
